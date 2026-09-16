@@ -1,0 +1,5 @@
+id,fecha,hora,id_especialista,id_paciente,estado
+1,2026-09-17,09:00,1,1,Programada
+2,2026-09-17,11:00,1,2,Programada
+3,2026-09-17,10:00,2,3,Programada
+4,2026-09-17,10:00,1,7,Programada
